@@ -1,7 +1,7 @@
 # Task-List
 A simple task list/to-do listweb app using Vite, React, and TailwindCSS
 
-I used Vite because it is a great environment to use React and Tailwind with minimal setup/configurationsx
+I used Vite because it is a great environment to use React and Tailwind with minimal setup/configurations
 
 # Run Instructions
 1. Download the project
